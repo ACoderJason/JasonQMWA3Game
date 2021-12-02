@@ -1,0 +1,31 @@
+div{
+    display: flex;
+    width:100%;
+    min-height: 50%;
+    align-items: stretch;
+    background-color: grey;
+}
+.Left{
+    width:30%;
+}
+section{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color: #1D2951;
+    box-shadow: 5px 8px #588BAE;
+    flex-grow: 7;
+}
+p{
+    color:palegreen;
+}
+body{
+    background: black;
+    font-size: 24px;
+    font-family: : "arial";
+}
+h1{
+    color:palegreen;
+}
